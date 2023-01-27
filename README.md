@@ -14,12 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe width="709" height="399" src="https://www.youtube.com/embed/XH7aMOib89c" title="IntroEng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/XH7aMOib89c/default.jpg)](https://youtu.be/XH7aMOib89c)
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/embed/XH7aMOib89c" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/embed/XH7aMOib89c"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
